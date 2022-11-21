@@ -5,6 +5,18 @@
     </a>
 </p>
  
+###Deploy via Vps
+• git clone https://github.com/PunyaAlby/Projects
+• cd Projects
+• pip3 install -U -r requirements.txt
+• mv sample_config.env config.env
+• nano config.env
+isi vars
+Jika sudah
+ketik ctrl + S
+ctrl + X
+• screen -S Projects
+• bash start
 
 ALBY-PYROBOT adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
 
