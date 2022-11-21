@@ -47,6 +47,7 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 <details>
 <summary><b>🔗 Deploy via vps</b></summary>
 <br>• git clone https://github.com/virtualunionsex/ALBY-PYROBOT 
+
 • cd ALBY-PYROBOT 
 
 • pip3 install -U -r requirements.txt
