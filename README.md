@@ -6,17 +6,7 @@
 </p>
  
 ###Deploy via Vps
-• git clone https://github.com/PunyaAlby/Projects
-• cd Projects
-• pip3 install -U -r requirements.txt
-• mv sample_config.env config.env
-• nano config.env
-isi vars
-Jika sudah
-ketik ctrl + S
-ctrl + X
-• screen -S Projects
-• bash start
+
 
 ALBY-PYROBOT adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
 
@@ -51,6 +41,21 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 <details>
 <summary><b>🔗 String Session</b></summary>
 <br>
+
+<summary><b>🔗 Deploy via vps</b></• git clone https://github.com/PunyaAlby/Projects
+• cd Projects
+
+• pip3 install -U -r requirements.txt
+
+• mv sample_config.env config.env
+
+• nano config.env
+
+#isi vars jika sudah ketik ctrl + S ctrl + X
+
+• screen -S Projects
+
+• bash start <br>
     
 > Anda memerlukan API_ID & API_HASH untuk menghasilkan sesi telethon. ambil APP ID dan API Hash di my.telegram.org
 <h4> Generate Session via Repl: </h4>    
